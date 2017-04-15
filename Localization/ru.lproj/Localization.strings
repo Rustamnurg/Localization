@@ -1,0 +1,18 @@
+/* 
+  Localization.strings
+  Localization
+
+  Created by Rustam N on 15.04.17.
+  Copyright © 2017 Test. All rights reserved.
+*/
+
+
+dateoOfBirth =  "Дата рождения";
+homeTown =  "Родной город";
+placeOfStudy =  "Место учебы";
+languages =  "Языки";
+phone =  "Номер телефона";
+city =  "Город";
+vkLink =  "Ссылка на страницу";
+basicInformation =  "Основная информация";
+contacts =  "Контакты";

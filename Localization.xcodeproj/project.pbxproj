@@ -50,6 +50,7 @@
 		4A5B01E41EA251BE0070C9C2 /* CreateData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateData.swift; sourceTree = "<group>"; };
 		4A5B01F91EA26BD40070C9C2 /* ru */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ru; path = ru.lproj/flag.jpg; sourceTree = "<group>"; };
 		4A5B01FB1EA26BDA0070C9C2 /* en */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = en; path = en.lproj/flag.jpg; sourceTree = "<group>"; };
+		4A5B01FC1EA26CC80070C9C2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -287,6 +288,7 @@
 			children = (
 				4A5B019C1EA21B2D0070C9C2 /* Base */,
 				4A5B01B71EA21C810070C9C2 /* ru */,
+				4A5B01FC1EA26CC80070C9C2 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

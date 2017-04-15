@@ -28,7 +28,7 @@ class TableViewController: UITableViewController {
         tableView.register(UINib(nibName: "Cell", bundle: nil), forCellReuseIdentifier: cellIdentifier)
         
         avatarImage.image = UIImage.init(named: "avatar")
-        flagImage.image = UIImage.init(named: "flag")
+        flagImage.image = UIImage.init(named: "flag.jpg")
         fullNameLabel.text = arrWithBaseInfo[0]
         statusLabel.text = arrWithBaseInfo[1]
         briefInformationLabel.text = arrWithBaseInfo[2]
